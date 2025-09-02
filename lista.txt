@@ -1,0 +1,11 @@
+a
+combinado.txt
+datos.csv
+frutas.txt
+hola2
+hola2.sh
+largo2.txt
+largo.txt
+lista.txt
+prueba.txt
+t.png
